@@ -1,0 +1,54 @@
+{
+  "name": "BharatTax Freelancer Tax Calculator India 2025-26",
+  "short_name": "FreelancerTax IN",
+  "description": "Free Section 44ADA presumptive tax calculator for Indian freelancers. Compare old vs new regime, plan advance tax, track TDS & GST for FY 2025-26.",
+  "start_url": "/freelancer-tax-estimator-india-2025-26",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0F2B5B",
+  "background_color": "#F0F4FC",
+  "lang": "en-IN",
+  "scope": "/",
+  "categories": ["finance", "productivity", "utilities"],
+  "keywords": ["tax calculator", "Section 44ADA", "freelancer tax India", "income tax 2025"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%230F2B5B'/><text y='.85em' font-size='360' x='60'>📊</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Tax Estimator",
+      "short_name": "Estimator",
+      "description": "Calculate your freelancer tax instantly",
+      "url": "/freelancer-tax-estimator-india-2025-26#main-content",
+      "icons": [{ "src": "/assets/shortcut-calculator.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Advance Tax Planner",
+      "short_name": "Advance Tax",
+      "description": "Plan your quarterly advance tax installments",
+      "url": "/freelancer-tax-estimator-india-2025-26?tab=advance-tax",
+      "icons": [{ "src": "/assets/shortcut-calendar.png", "sizes": "96x96" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot-desktop.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "platform": "wide",
+      "label": "BharatTax Freelancer Tax Calculator — Desktop View"
+    },
+    {
+      "src": "/assets/screenshot-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "BharatTax Freelancer Tax Calculator — Mobile View"
+    }
+  ]
+}

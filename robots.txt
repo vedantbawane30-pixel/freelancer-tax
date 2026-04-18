@@ -1,0 +1,68 @@
+# ════════════════════════════════════════════════════════
+# robots.txt — BharatTax Tools
+# Place this file at: https://bharattax.tools/robots.txt
+# ════════════════════════════════════════════════════════
+
+# ── SEARCH ENGINES ─────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# ── AI CRAWLERS (Critical for AI Overview + Perplexity citations) ──
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Gemini
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# ── GOOD BOTS ──────────────────────────────────────────
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /tmp/
+
+# ── SITEMAP LOCATION ───────────────────────────────────
+Sitemap: https://bharattax.tools/sitemap.xml
+
+# ── HOST DIRECTIVE ─────────────────────────────────────
+Host: bharattax.tools

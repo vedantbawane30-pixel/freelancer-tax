@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ════════════════════════════════════════════
+       SITEMAP — BharatTax Tools
+       Updated: 2025-04-18
+       Submit to: Google Search Console + Bing Webmaster Tools
+       URL: https://bharattax.tools/sitemap.xml
+  ════════════════════════════════════════════ -->
+
+  <!-- PRIMARY PAGE: Freelancer Tax Estimator -->
+  <url>
+    <loc>https://bharattax.tools/freelancer-tax-estimator-india-2025-26</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <!-- hreflang alternates -->
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bharattax.tools/freelancer-tax-estimator-india-2025-26"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bharattax.tools/freelancer-tax-estimator-india-2025-26"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bharattax.tools/freelancer-tax-estimator-india-2025-26"/>
+    <!-- OG image for Google Discover -->
+    <image:image>
+      <image:loc>https://bharattax.tools/assets/og-freelancer-tax-calculator-india-2025.png</image:loc>
+      <image:title>Free Freelancer Tax Calculator India 2025-26 — Section 44ADA</image:title>
+      <image:caption>Calculate Section 44ADA presumptive tax, compare old vs new regime, plan advance tax for FY 2025-26</image:caption>
+    </image:image>
+  </url>
+
+  <!-- HOMEPAGE -->
+  <url>
+    <loc>https://bharattax.tools/</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ANCHOR: FAQ Section -->
+  <url>
+    <loc>https://bharattax.tools/freelancer-tax-estimator-india-2025-26#faq</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ANCHOR: How It Works -->
+  <url>
+    <loc>https://bharattax.tools/freelancer-tax-estimator-india-2025-26#how-it-works</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
